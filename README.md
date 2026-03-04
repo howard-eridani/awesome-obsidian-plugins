@@ -45,6 +45,13 @@ Take this into account.
 - [Discordian](https://github.com/radekkozak/discordian) - Dark theme inspired by Discord.
 - [Molecule](https://github.com/manassadasivuni/obsidian-molecule) - A light theme to Obsidian.
 
+
+## AI & MCP Integration
+
+Tools and servers that extend Obsidian with AI agent capabilities via Model Context Protocol (MCP).
+
+- [evc-team-relay-mcp](https://github.com/entire-vc/evc-team-relay-mcp) - MCP server for AI agent read/write access to Obsidian vaults via [EVC Team Relay](https://entire.vc/team-relay/ai/). Supports listing, reading, writing, and searching notes. Homepage: https://entire.vc/team-relay/ai/
+
 ## Contributing
 
 Your contributions are very welcome! Please, take a look at the
